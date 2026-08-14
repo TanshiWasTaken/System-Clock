@@ -45,7 +45,7 @@ Copy the overlay to:
 
 ```text
 sd:/switch/
-├── .overlay/
+├── .overlays/
 │   └── system-clock.ovl
 └── ...
 ```
@@ -60,7 +60,7 @@ Open Ultrahand and launch System Clock.
 
 If the overlay doesn't appear:
 
-- Make sure `system-clock.ovl` is in `sd:/switch/.overlay/`
+- Make sure `system-clock.ovl` is in `sd:/switch/.overlays/`
 - Make sure Ultrahand is running
 - Reboot after installing the sysmodule
 
