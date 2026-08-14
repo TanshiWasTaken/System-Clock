@@ -1,0 +1,6 @@
+{
+	"name"  : "sys-time-edit",
+	"tid"   : "4200000000000C10",
+	"requires_reboot": false,
+	"version": "1.0.0"
+}
